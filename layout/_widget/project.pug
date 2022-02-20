@@ -1,0 +1,6 @@
+.widget
+  .widget-title
+    i(class='fa fa-diamond')= ' ' + __('project')
+  - for (var i in theme.project)
+    ul
+      a(href=theme.project[i].url title=theme.project[i].title target='_blank') #{theme.project[i].title}
