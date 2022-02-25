@@ -9,15 +9,15 @@ div.post-copyright
         = theme.post_copyright.author
     p
         span= __('copyright_date_prefix')
-        = page.date.format(config.date_format)
+        = page.date.format(config.ts_format)
     p
         span= __('copyright_update_prefix')
-        = page.updated.format(config.date_format)
+        = page.updated.format(config.ts_format)
     p
         span= __('copyright_link_prefix')
         a(href='/' + page.path)= page.path
         span.copy-path
-            i(class='fa fa-clipboard',data-clipboard-text=config.url + '/' + page.path)
+            i(class='fa fa-clipboard',data-clipboard-text='https://' +config.url + '/' + page.path)
     p
         span= __('copyright_declare_prefix')
         if theme.post_copyright.copyright_text

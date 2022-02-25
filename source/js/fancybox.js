@@ -11,7 +11,7 @@ $(document).ready(function() {
   });
 });
 $(document).ready(function() {
-  var boxtext1 = "a[href$='.jpg'],a[href$='.png'],a[href$='.gif'],a[href$='.webp']";
+  var boxtext1 = "a[href$='.jpg'],a[href$='.jpeg'],a[href$='.bmp'],a[href$='.png'],a[href$='.gif'],a[href$='.svg']";
   $(boxtext1).attr('rel', 'gallery').fancybox({
     helpers : {
     title: { type: 'inside'}
