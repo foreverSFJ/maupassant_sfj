@@ -27,3 +27,17 @@
 * 新样式
 
   ![](http://qiniu.cdn.foreversfj.com/image/share/20220220/rUul3KgvGFuP.png!blog)
+
+## 4. 对归档内容进行正序时间排列
+
+* 源样式（归档处时间逆序）
+
+  ![](http://qiniu.cdn.foreversfj.com/image/share/20220312/UsJGvlNaJBS7.png!blog)
+
+  ![](http://qiniu.cdn.foreversfj.com/image/share/20220312/V01lelHLEcxI.png!blog)
+
+* 新样式（时间正序）
+
+  ![](http://qiniu.cdn.foreversfj.com/image/share/20220312/PL6C0Al9A1Oa.png!blog)
+
+  ![](http://qiniu.cdn.foreversfj.com/image/share/20220312/hw5SqddUGqMe.png!blog)
